@@ -1,0 +1,11 @@
+Test_Disease	需检测	等指标
+Symptom_Disease	临床表现为：	无
+Treatment_Disease	可采用	治疗	
+Drug_Disease	可服用	无
+Anatomy_Disease	在	有不适症状
+Frequency_Drug	用药频率：	无
+Duration_Drug	持续服用	无
+Amount_Drug	常用量	无
+Method_Drug	用法：	无
+SideEff_Drug	不良反应为：	无
+SideEff-Drug	不良反应为：	无

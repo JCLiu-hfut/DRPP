@@ -1,0 +1,11 @@
+Test_Disease	需检测(.*?)等指标
+Symptom_Disease	临床表现为：(.*?)[\s,，,。]
+Treatment_Disease	可采用(.*?)治疗	
+Drug_Disease	可服用(.*?)[\s,，,。]
+Anatomy_Disease	在(.*?)有不适症状
+Frequency_Drug	每次(.*?)[\s,，,。]
+Duration_Drug	持续服用(.*?)[\s,，,。]
+Amount_Drug	常用量(.*?)[\s,，,。]
+Method_Drug	用法：(.*?)[\s,，,。]
+SideEff_Drug	不良反应为：(.*?)[\s,，,。]
+SideEff-Drug	不良反应为：(.*?)[\s,，,。]

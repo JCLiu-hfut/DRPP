@@ -1,0 +1,13 @@
+Test_Disease	检查方法
+Symptom_Disease	临床表现
+Treatment_Disease	非药治疗	
+Drug_Disease	药品名称
+Anatomy_Disease	部位
+Frequency_Drug	用药频率
+Duration_Drug	持续时间
+Amount_Drug	用药剂量
+Method_Drug	用药方法
+SideEff_Drug	不良反应
+SideEff-Drug	不良反应
+disease	疾病
+drug	药品
