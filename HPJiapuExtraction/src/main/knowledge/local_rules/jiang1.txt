@@ -1,0 +1,8 @@
+courtesy_name--字([\u4E00-\u9FA5]*?)[、,。]
+partner_id--配(.*?)，
+shi--第([0-9 一 二 三 四 五 六 七 八 九 十 廿]*?)世
+name--^(.*?)，
+birth--生于(.*?)、
+father_id--[、,，]([\u4E00-\u9FA5]*?)长
+pseudonym--号([\u4E00-\u9FA5]*?)，
+death_date--卒于(.*?)。

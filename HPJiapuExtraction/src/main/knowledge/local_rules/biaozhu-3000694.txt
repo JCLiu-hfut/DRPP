@@ -1,0 +1,6 @@
+posthumousTitle--谥曰(.*?)[。,\n]
+shi--^([0-9 一 二 三 四 五 六 七 八 九 十 廿]*?)代 
+name--代 (.*?) 
+birth--生(.*?)，
+pseudonym--号([\u4E00-\u9FA5]*?) 
+yearsLived--享寿([0-9 一 二 三 四 五 六 七 八 九 十 廿]*?)[ ,。]

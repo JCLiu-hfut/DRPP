@@ -1,0 +1,2 @@
+education--生1女楚俏，(.*?)，
+partner_id--配(.*?)，
